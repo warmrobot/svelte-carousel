@@ -1,5 +1,5 @@
 {
-  "name": "svelte-carousel",
+  "name": "@warmrobot/svelte-carousel",
   "version": "1.0.25",
   "description": "Svelte carousel",
   "main": "src/main.js",
@@ -9,12 +9,12 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vadimkorr/svelte-carousel.git"
+    "url": "git+https://github.com/warmrobot/svelte-carousel.git"
   },
   "bugs": {
-    "url": "https://github.com/vadimkorr/svelte-carousel/issues"
+    "url": "https://github.com/warmrobot/svelte-carousel/issues"
   },
-  "homepage": "https://github.com/vadimkorr/svelte-carousel#readme",
+  "homepage": "https://github.com/warmrobot/svelte-carousel#readme",
   "keywords": [
     "svelte",
     "carousel",
